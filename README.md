@@ -1,4 +1,4 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [SECURITY ASSISTANCE FOR VISUALLY CHALLENGED]
 
 ## Team Members:
 1. [ATHARVA NAMDEO]
