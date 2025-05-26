@@ -1,15 +1,19 @@
 # Title of Project: [PROJECT_TITLE_HERE]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. [ATHARVA NAMDEO]
+2. [DEVESH KUMAR]
+3. [PARTH SHARMA]
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+STEP1-Detect Harmful Object in Hand
+Use YOLO and OpenCV to identify harmful objects (e.g., knives) and confirm they're being held.
+
+STEP2-Recognize Face
+Apply DeepFace to check if the person holding the object is a known family member.
+
+STEP3-Trigger Alarm if Needed
+If the person is not recognized, trigger an alarm (sound, notification, or message).
 
 ## Checklist:
 1. Final Project Report
